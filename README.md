@@ -1,0 +1,1 @@
+A python script that takes an exported list of bookmarks(formatted as an html file) comprising of youtube videos, strips the urls of their video ids and then uses the youtube api to put all the bookmarked videos into a youtube playlist. The boiler plate API code was taken from the youtube API documentation. 
